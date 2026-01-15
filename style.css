@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+
+    display: inline;
+  
+}
+/* 
+    display: inline;
+} */
+ 
+
+ ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px 10px;
+  text position: right: ;
+
+ 
+   
+}
+ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    text position: right: ;
+}
+nav{
+    background-color: aquamarine;
+}
+
+header , nav, ul{
+    margin: 0;
+    padding: 0;
+}
+ul>li>a:hover{
+
+    color: brown;
+}
+#para{
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
